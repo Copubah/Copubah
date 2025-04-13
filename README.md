@@ -1,8 +1,5 @@
-## Hi there 👋
 
-### Hi there 👋, I'm Charles Opuba
-
-### Hi there 👋, I'm Charles Opuba
+## Hi there 👋, I'm Charles Opuba
 
 🌩 **AWS Cloud Engineer** | ☁️ **Cloud Security Enthusiast** | 🛡️ **SOC Analyst**  
 🔭 Currently building: **Azure SOC Honeynet Project**  
