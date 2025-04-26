@@ -6,7 +6,8 @@
 📘 Studying: **AWS SAA-C03**, **SC-900**, **SC-200**  
 🛠️ Learning: **Terraform**, **Cloud Security Best Practices**  
 💬 Ask me about: AWS, VPCs, EC2, Cloud Security, Terraform, Linux  
-📫 How to reach me: [LinkedIn](https://https://www.linkedin.com/in/charles-opuba-94820574/)
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/charles-opuba-94820574/)
+
 
 ---
 
