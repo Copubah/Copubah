@@ -1,8 +1,8 @@
-
 ## 👋 Hi there, I'm Charles Opuba
 
 🌩 **AWS Cloud Engineer** | 🛡️ **SOC Analyst** | ☁️ **Cloud Security Enthusiast**  
 🎓 **AWS re/Start Graduate** | ✅ **AWS Certified Cloud Practitioner**  
+🔭 Currently building: **Azure SOC Honeynet Project**  
 📘 Studying: `AWS SAA-C03`, `KCNA`, `SC-900`, `SC-200`  
 🛠️ Learning: `Terraform`, `Cloud Security Best Practices`  
 💬 Ask me about: AWS, VPCs, EC2, Cloud Security, Terraform, Linux  
@@ -32,10 +32,13 @@
 
 📚 **Certifications**
 
-- ✅ AWS Certified Cloud Practitioner
-- 🎓 AWS re/Start Graduate
-- 📘 *In Progress:*  
-  - [ ] AWS Certified Solutions Architect – Associate (SAA-C03)  
-  - [ ] Kubernetes and Cloud Native Associate (KCNA)  
-  - [ ] Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)  
-  - [ ] Microsoft Certified: Security Operations Analyst Associate (SC-200)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-brightgreen?logo=amazon-aws&logoColor=white)
+![AWS re/Start Graduate](https://img.shields.io/badge/AWS%20re/Start-Graduate-blue?logo=amazon-aws&logoColor=white)
+
+**In Progress:**
+
+![SAA-C03](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-In%20Progress-orange?logo=amazon-aws&logoColor=white)
+![KCNA](https://img.shields.io/badge/Kubernetes%20and%20Cloud%20Native%20Associate-In%20Progress-blue?logo=kubernetes&logoColor=white)
+![SC-900](https://img.shields.io/badge/Microsoft%20SC--900-In%20Progress-0078D4?logo=microsoft&logoColor=white)
+![SC-200](https://img.shields.io/badge/Microsoft%20SC--200-In%20Progress-0078D4?logo=microsoft&logoColor=white)
+
