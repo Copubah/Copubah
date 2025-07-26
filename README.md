@@ -58,7 +58,6 @@
 
 ![SAA-C03](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-In%20Progress-orange?logo=amazon-aws&logoColor=white)
 ![KCNA](https://img.shields.io/badge/Kubernetes%20and%20Cloud%20Native%20Associate-In%20Progress-blue?logo=kubernetes&logoColor=white)
-![SC-900](https://img.shields.io/badge/Microsoft%20SC--900-In%20Progress-0078D4?logo=microsoft&logoColor=white)
 ![SC-200](https://img.shields.io/badge/Microsoft%20SC--200-In%20Progress-0078D4?logo=microsoft&logoColor=white)
 
 
