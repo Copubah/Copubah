@@ -1,9 +1,6 @@
 ## 👋 Hi there, I'm Charles Opuba
 
 🌩 **AWS Cloud Engineer** | 🛡️ **SOC Analyst** | ☁️ **Cloud Security Enthusiast**  
-🎓 **AWS re/Start Graduate** | ✅ **AWS Certified Cloud Practitioner**  
-🔭 Currently building: **Azure SOC Honeynet Project**  
-📘 Studying: `AWS SAA-C03`and `KCNA` 
 🛠️ Learning: `Terraform`, `Cloud Security Best Practices`  
 💬 Ask me about: AWS, VPCs, EC2, Cloud Security, Terraform, Linux  
 📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/charles-opuba-94820574/)
