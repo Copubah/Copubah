@@ -41,9 +41,6 @@
 
 ---
 
-### 📈 GitHub Stats
 
-![Charles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Copubah&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Copubah&layout=compact&theme=github_dark)
 
 
