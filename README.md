@@ -1,11 +1,10 @@
+
 ## 👋 Hi there, I'm Charles Opuba
 
 🌩 **AWS Cloud Engineer** | 🛡️ **SOC Analyst** | ☁️ **Cloud Security Enthusiast**  
 🛠️ Learning: `Terraform`, `Cloud Security Best Practices`  
 💬 Ask me about: AWS, VPCs, EC2, Cloud Security, Terraform, Linux  
 📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/charles-opuba-94820574/)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Copubah.Copubah)
 
 ---
 
