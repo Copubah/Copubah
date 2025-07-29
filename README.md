@@ -41,6 +41,11 @@
 
 ---
 
+### 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/charles-opuba-94820574/)  
+[![Email](https://img.shields.io/badge/Email-charles.opuba%40gmail.com-red?logo=gmail&logoColor=white)](mailto:charles.opuba@gmail.com)
+
 
 
 
