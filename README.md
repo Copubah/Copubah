@@ -1,31 +1,31 @@
 
 ## 👋 Hi there, I'm Charles Opuba
 
-🌩 **AWS Cloud Support Engineer** | 🛡️ **SOC Analyst** | ☁️ **Cloud Security Enthusiast**  
-🛠️ Learning: `Terraform`, `Cloud Security Best Practices`  
-💬 Ask me about: AWS, VPCs, EC2, Cloud Security, Terraform, Linux  
-📫 **Reach me on:** [LinkedIn](https://www.linkedin.com/in/charles-opuba-94820574/)
+ **AWS Cloud Support Engineer** | 🛡️ **SOC Analyst** | ☁️ **Cloud Security Enthusiast**  
+ Learning: `Terraform`, `Cloud Security Best Practices`  
+ Ask me about: AWS, VPCs, EC2, Cloud Security, Terraform, Linux  
+ **Reach me on:** [LinkedIn](https://www.linkedin.com/in/charles-opuba-94820574/)
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 
-- ☁️ AWS (EC2, S3, VPC, IAM, Lambda, CloudWatch)  
-- 🔐 Security (AWS GuardDuty, Security Hub, Azure Defender)  
-- 🛠 Terraform, Git, GitHub Actions  
-- 🐧 Linux, Bash  
-- 💾 SQL (MySQL, MariaDB)  
-- 📊 Monitoring: CloudWatch, Grafana  
-- 📜 Python, Bash
+-  AWS (EC2, S3, VPC, IAM, Lambda, CloudWatch)  
+-  Security (AWS GuardDuty, Security Hub, Azure Defender)  
+-  Terraform, Git, GitHub Actions  
+-  Linux, Bash  
+- SQL (MySQL, MariaDB)  
+-  Monitoring: CloudWatch, Grafana  
+- Python, Bash
 
 ---
 
-### 🗂️ Featured Projects
+###  Featured Projects
 
-- 🔐 [Terraform Deployment](https://github.com/Copubah/Terraform-Deployment)  
-- ☁️ [Host a Website on Amazon S3](https://github.com/Copubah/Host-a-Website-on-Amazon-S3)  
-- 📦 [Cloud Resume Challenge](https://github.com/Copubah/AWS-Cloud-Resume)  
-- 📊 [AWS CloudWatch Dashboard + Alerts](https://github.com/Copubah/Cloudwatch-Alarm)
+-  [Terraform Deployment](https://github.com/Copubah/Terraform-Deployment)  
+-  [Host a Website on Amazon S3](https://github.com/Copubah/Host-a-Website-on-Amazon-S3)  
+-  [Cloud Resume Challenge](https://github.com/Copubah/AWS-Cloud-Resume)  
+-  [AWS CloudWatch Dashboard + Alerts](https://github.com/Copubah/Cloudwatch-Alarm)
 
 ---
 
