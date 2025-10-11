@@ -29,7 +29,7 @@
 
 ---
 
-### 📚 Certifications
+### Certifications
 
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-brightgreen?logo=amazon-aws&logoColor=white)  
 ![AWS re/Start Graduate](https://img.shields.io/badge/AWS%20re/Start-Graduate-blue?logo=amazon-aws&logoColor=white)
@@ -41,7 +41,7 @@
 
 ---
 
-### 📬 Contact
+###  Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/charles-opuba-94820574/)  
 [![Email](https://img.shields.io/badge/Email-charles.opuba%40gmail.com-red?logo=gmail&logoColor=white)](mailto:charlesopuba@gmail.com)
