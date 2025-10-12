@@ -20,14 +20,7 @@
 
 ---
 
-###  Featured Projects
 
--  [Terraform Deployment](https://github.com/Copubah/Terraform-Deployment)  
--  [Host a Website on Amazon S3](https://github.com/Copubah/Host-a-Website-on-Amazon-S3)  
--  [Cloud Resume Challenge](https://github.com/Copubah/AWS-Cloud-Resume)  
--  [AWS CloudWatch Dashboard + Alerts](https://github.com/Copubah/Cloudwatch-Alarm)
-
----
 
 ### Certifications
 
