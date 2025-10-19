@@ -1,8 +1,8 @@
 
 ## 👋 Hi there, I'm Charles Opuba
 
- **AWS Cloud Support Engineer** | 🛡️ **SOC Analyst** | ☁️ **Cloud Security Enthusiast**   
- Ask me about: AWS, VPCs, EC2, Cloud Security, Terraform, Linux  
+ **AWS Cloud Support Engineer** |  **SOC Analyst** |  **Cloud Security Enthusiast**   
+ Ask me about: Cloud computing,Automation,Incident response, Security & Troubleshooting
  **Reach me on:** [LinkedIn](https://www.linkedin.com/in/charles-opuba-94820574/)
 
 ###  Skills & Tools 
