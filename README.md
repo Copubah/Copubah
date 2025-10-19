@@ -14,6 +14,7 @@
 - SQL (MySQL, MariaDB)  
 -  Monitoring: CloudWatch, Grafana  
 - Python, Bash
+- Javascript
 - Go
 
 
