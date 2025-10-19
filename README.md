@@ -29,7 +29,6 @@
 
 **In Progress:**  
 ![SAA-C03](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-In%20Progress-orange?logo=amazon-aws&logoColor=white)  
-![KCNA](https://img.shields.io/badge/Kubernetes%20and%20Cloud%20Native%20Associate-In%20Progress-blue?logo=kubernetes&logoColor=white)  
 ![DVA-CO2](https://img.shields.io/badge/AWS%20Developer%20Associate-In%20Progress-yellow?logo=amazonaws&logoColor=white)
 
 
