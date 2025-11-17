@@ -1,5 +1,5 @@
 
-## 👋 Hi there, I'm Charles Opuba
+## Hi there, I'm Charles Opuba
 
  **AWS Cloud Support Engineer** |  **SOC Analyst** |  **Cloud Security Enthusiast**   
  Ask me about: Cloud computing,Automation,Incident response, Security & Troubleshooting
