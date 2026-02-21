@@ -1,6 +1,6 @@
 # Charles Opuba
 
-**AWS Cloud Support Engineer** | **SOC Analyst** | **Cloud Security**
+**Cloud Engineer** | **SOC Analyst** | **Cloud Security**
 
 ### Skills
 - **Programming:** Python, Bash, Go, JavaScript, Rust
