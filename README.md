@@ -1,12 +1,10 @@
 ## Hi there, I'm Charles Opuba
-
-<<<<<<< HEAD
-**Cloud Engineer** | **SOC Analyst** | **Cloud Security**
+**Cloud Engineer** | **SOC Analyst** | 
 =======
- **AWS Cloud Support Engineer** |  **SOC Analyst** |  **Cloud Security**   
+ **Cloud Engineer** |  **SOC Analyst** |  
  Ask me about: Cloud computing, Automation, Incident response, Security & Troubleshooting
  **Reach me on:** [LinkedIn](https://www.linkedin.com/in/charles-opuba-94820574/)
->>>>>>> d4ca1b4 (Restore old README content)
+
 
 ###  Skills & Tools 
 #### Programming Languages  
