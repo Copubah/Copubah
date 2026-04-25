@@ -1,7 +1,7 @@
 ## Hi there, I'm Charles Opuba
-**Cloud Engineer** | **SOC Analyst** | 
+**Cloud Engineer** | 
 =======
- **Cloud Engineer** |  **SOC Analyst** |  
+ **Cloud Engineer** |  
  Ask me about: Cloud computing, Automation, Incident response, Security & Troubleshooting
  **Reach me on:** [LinkedIn](https://www.linkedin.com/in/charles-opuba-94820574/)
 
