@@ -1,58 +1,59 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:243b55&height=200&section=header&text=Charles%20Opuba%20%7C%20Cloud%20Engineer&fontSize=32&fontColor=ffffff" />
+<p align="center">
+  <img src="sandbox:/mnt/data/6eb041c9-964b-4d1f-b9ed-c5005e10fe0f.png" width="100%" />
+</p>
 
 # Cloud Engineer | AWS | DevOps | Infrastructure Automation | AWS Community Builder
 
-AWS Cloud Operations Community Builder focused on building secure, scalable, and automated cloud systems on AWS.
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Engineer-0f2027?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Community%20Builder-243b55?style=for-the-badge"/>
+</p>
 
 ---
 
 ## About
 
-I design and implement cloud-native architectures using AWS, Infrastructure as Code, and DevOps automation.
+Cloud Engineer focused on building secure and scalable AWS systems using automation, infrastructure as code, and modern DevOps practices.
 
-Focus areas:
-- Cloud architecture and reliability engineering
+Core focus areas:
+- Cloud architecture and system design
 - Infrastructure as Code (Terraform)
-- CI/CD automation and DevOps workflows
-- Multi-region and high availability systems
+- High availability and disaster recovery
+- CI/CD automation and deployment pipelines
 - Cloud security and observability
 
 ---
 
-## Tech Stack
+## Core Stack (AWS Theme Aligned)
 
-### Cloud & Infrastructure
+### Cloud Platform
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### Architecture Services
+<p>
+  <img src="https://img.shields.io/badge/EC2-0f2027?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-243b55?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-1f3a5f?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lambda-0f2027?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
 </p>
 
 ### DevOps & Automation
 <p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-243b55?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-0f2027?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-1f3a5f?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-243b55?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-### Programming Languages
+### Programming
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Security & Observability
-<p>
-  <img src="https://img.shields.io/badge/GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security_Hub-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-243b55?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-1f3a5f?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FF9900?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
@@ -61,49 +62,49 @@ Focus areas:
 
 ### Multi-Region Disaster Recovery Architecture
 https://github.com/Copubah/aws-multi-region-disaster-recovery  
-Resilient AWS architecture with cross-region failover and disaster recovery design.
+Resilient AWS architecture designed for failover, redundancy, and business continuity.
 
 ---
 
-### 3-Tier High Availability Architecture
+### 3-Tier High Availability AWS Architecture
 https://github.com/Copubah/AWS-3-tier-high-availability-architecture  
-Scalable production-grade architecture using load balancing and redundancy.
+Scalable system design using load balancing, auto scaling, and fault tolerance.
 
 ---
 
 ### AWS Lift and Shift Migration
 https://github.com/Copubah/aws-lift-shift-migration  
-Cloud migration strategy for moving workloads into AWS environments.
+Cloud migration strategy demonstrating workload transition to AWS.
 
 ---
 
 ### RDS Multi-AZ Terraform Deployment
 https://github.com/Copubah/aws-rds-multi-az-terraform  
-Infrastructure as Code for highly available database deployment.
+Infrastructure as Code implementation for highly available database systems.
 
 ---
 
 ### S3 Security Misconfiguration Detector
 https://github.com/Copubah/s3-bucket-detector  
-Tool for detecting exposed or misconfigured S3 buckets.
+Security automation tool for identifying exposed S3 resources.
 
 ---
 
-## Community
+## AWS Community Builder
 
 AWS Community Builder – Cloud Operations  
-Active contributor to AWS community learning, cloud best practices, and architecture discussions.
+Focused on sharing cloud knowledge, architecture patterns, and best practices within the AWS ecosystem.
 
 ---
 
 ## Architecture Focus
 
-- Multi-region cloud systems
-- High availability and disaster recovery
+- AWS-native system design
+- Multi-region and high availability systems
 - Infrastructure as Code (Terraform)
-- Secure AWS architecture (IAM, VPC, encryption)
-- Observability and monitoring systems
-- DevOps automation pipelines
+- Secure cloud architecture (IAM, VPC, encryption)
+- Observability and logging strategies
+- CI/CD automation pipelines
 
 ---
 
@@ -111,9 +112,9 @@ Active contributor to AWS community learning, cloud best practices, and architec
 
 <p>
   <a href="https://www.linkedin.com/in/charles-opuba-94820574/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:charlesopuba@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-243b55?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
