@@ -25,7 +25,7 @@ Core focus areas:
 
 ---
 
-## Core Stack (AWS Theme Aligned)
+## Core Stack (AWS)
 
 ### Cloud Platform
 <p>
