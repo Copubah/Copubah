@@ -2,92 +2,96 @@
 
 # Cloud Engineer | AWS | DevOps | Infrastructure Automation
 
-I design and build cloud-native systems on AWS using Infrastructure as Code, automation, and scalable architecture patterns.
-
-Focused on:
-- Secure AWS architecture
-- Multi-region high availability
-- CI/CD automation
-- Infrastructure as Code (Terraform)
+Building secure, scalable, and automated cloud systems using AWS and modern DevOps practices.
 
 ---
 
-## GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Copubah&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Copubah&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+### Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Copubah&theme=tokyonight&hide_border=true"/>
+### DevOps & Automation
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
----
+### Programming & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
 
-## Core Skills
-
-**Cloud:** AWS (EC2, S3, RDS, IAM, VPC, CloudWatch, Route 53)  
-**DevOps:** Terraform, Docker, Kubernetes, GitHub Actions, Jenkins  
-**Programming:** Python, Bash, Go  
-**Architecture:** High availability, disaster recovery, multi-region design  
+### Security & Observability
+<p>
+  <img src="https://img.shields.io/badge/GuardDuty-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security_Hub-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
 ## Featured Projects
 
-### AWS Multi-Region Disaster Recovery
+### Multi-Region Disaster Recovery Architecture
 https://github.com/Copubah/aws-multi-region-disaster-recovery  
-Designs a resilient multi-region DR architecture using AWS best practices for failover and replication.
+Resilient cloud architecture with failover strategy and high availability design.
 
 ---
 
-### 3-Tier High Availability Architecture
+### 3-Tier High Availability AWS Architecture
 https://github.com/Copubah/AWS-3-tier-high-availability-architecture  
-Production-style 3-tier architecture with load balancing, scaling, and fault tolerance.
+Scalable production-grade architecture with load balancing and redundancy.
 
 ---
 
 ### AWS Lift and Shift Migration
 https://github.com/Copubah/aws-lift-shift-migration  
-Migrates workloads to AWS using cloud migration strategies and infrastructure replication patterns.
+Migration strategy implementation for moving workloads into AWS.
 
 ---
 
-### RDS Multi-AZ Terraform Automation
+### RDS Multi-AZ Terraform Deployment
 https://github.com/Copubah/aws-rds-multi-az-terraform  
-Automates highly available database deployment using Terraform and AWS RDS Multi-AZ.
+Automated database infrastructure using Terraform with high availability setup.
 
 ---
 
-### S3 Bucket Security Detector
+### S3 Security Misconfiguration Detector
 https://github.com/Copubah/s3-bucket-detector  
-Security-focused tool for identifying misconfigured or exposed S3 buckets.
+Security tool for detecting exposed or misconfigured S3 buckets.
 
 ---
 
-## Architecture Focus Areas
+## Architecture Focus
 
-- Multi-region failover systems
-- High availability cloud design
-- Secure AWS networking (VPC, IAM, encryption)
-- Infrastructure automation with Terraform
-- Cloud migration strategies
-
----
-
-## What I bring
-
-- Hands-on AWS architecture experience
-- Strong Infrastructure as Code foundation
-- Security-aware cloud design thinking
-- Real-world multi-region and HA implementations
+- Multi-region system design
+- High availability and fault tolerance
+- Infrastructure as Code (Terraform)
+- Secure AWS networking and IAM design
+- Cloud automation and CI/CD pipelines
 
 ---
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/charles-opuba-94820574/  
-Email: charlesopuba@gmail.com
-
+<p>
+  <a href="https://www.linkedin.com/in/charles-opuba-94820574/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:charlesopuba@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
