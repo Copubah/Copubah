@@ -58,37 +58,7 @@ Core focus areas:
 
 ---
 
-## Featured Projects
 
-### Multi-Region Disaster Recovery Architecture
-https://github.com/Copubah/aws-multi-region-disaster-recovery  
-Resilient AWS architecture designed for failover, redundancy, and business continuity.
-
----
-
-### 3-Tier High Availability AWS Architecture
-https://github.com/Copubah/AWS-3-tier-high-availability-architecture  
-Scalable system design using load balancing, auto scaling, and fault tolerance.
-
----
-
-### AWS Lift and Shift Migration
-https://github.com/Copubah/aws-lift-shift-migration  
-Cloud migration strategy demonstrating workload transition to AWS.
-
----
-
-### RDS Multi-AZ Terraform Deployment
-https://github.com/Copubah/aws-rds-multi-az-terraform  
-Infrastructure as Code implementation for highly available database systems.
-
----
-
-### S3 Security Misconfiguration Detector
-https://github.com/Copubah/s3-bucket-detector  
-Security automation tool for identifying exposed S3 resources.
-
----
 
 ## AWS Community Builder
 
