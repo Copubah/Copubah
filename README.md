@@ -52,20 +52,6 @@ I am a Cloud Engineer focused on AWS-native architecture, infrastructure automat
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Tollgate](https://github.com/Copubah)** | Pre-production AWS cost rule engine that catches bad spend patterns in Terraform/CloudFormation at the PR level | Terraform, Express, SQLite |
-| **[netwatch-ids](https://github.com/Copubah)** | Intrusion detection system using Scapy for packet capture and Isolation Forest for anomaly detection | Python, Scapy, scikit-learn |
-| **[jobs-aggregator](https://github.com/Copubah/jobs-aggregator)** | Kenya tech jobs aggregator that scrapes and consolidates listings from multiple sources | Python |
-| **EKS Observability Stack** | Full observability stack for Kubernetes workloads with metrics, logs, and dashboards | Prometheus, Grafana, Loki, EKS |
-| **DevSecOps CI/CD Pipeline** | Pipeline embedding security scanning and policy checks directly into the deployment flow | GitHub Actions, Trivy, OPA |
-
-*Update repo links above to point directly at each project once confirmed.*
-
----
-
 ## Architecture Focus
 
 | Area | Details |
