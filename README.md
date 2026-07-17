@@ -1,7 +1,6 @@
 <div align="center">
 
 # Charles Opuba
-
 **Cloud Engineer · AWS Community Builder**
 
 <p>
@@ -19,7 +18,7 @@
 
 ## About
 
-I am a Cloud Engineer focused on AWS-native architecture, infrastructure automation, and DevOps practices. AWS Community Builder in Cloud Operations;sharing architecture patterns, best practices, and cloud knowledge across the AWS ecosystem.
+I am a Cloud Engineer focused on AWS-native architecture, infrastructure automation, and DevOps practices. AWS Community Builder in Cloud Operations, sharing architecture patterns, best practices, and cloud knowledge across the AWS ecosystem.
 
 ---
 
@@ -53,6 +52,20 @@ I am a Cloud Engineer focused on AWS-native architecture, infrastructure automat
 
 ---
 
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Tollgate](https://github.com/Copubah)** | Pre-production AWS cost rule engine that catches bad spend patterns in Terraform/CloudFormation at the PR level | Terraform, Express, SQLite |
+| **[netwatch-ids](https://github.com/Copubah)** | Intrusion detection system using Scapy for packet capture and Isolation Forest for anomaly detection | Python, Scapy, scikit-learn |
+| **[jobs-aggregator](https://github.com/Copubah/jobs-aggregator)** | Kenya tech jobs aggregator that scrapes and consolidates listings from multiple sources | Python |
+| **EKS Observability Stack** | Full observability stack for Kubernetes workloads with metrics, logs, and dashboards | Prometheus, Grafana, Loki, EKS |
+| **DevSecOps CI/CD Pipeline** | Pipeline embedding security scanning and policy checks directly into the deployment flow | GitHub Actions, Trivy, OPA |
+
+*Update repo links above to point directly at each project once confirmed.*
+
+---
+
 ## Architecture Focus
 
 | Area | Details |
@@ -70,7 +83,7 @@ I am a Cloud Engineer focused on AWS-native architecture, infrastructure automat
 
 > **AWS Community Builder — Cloud Operations**
 >
-> I Contribute to the AWS community through articles, architecture walkthroughs, and sharing real-world patterns for building on AWS.
+> I contribute to the AWS community through articles, architecture walkthroughs, and sharing real-world patterns for building on AWS.
 
 ---
 
@@ -79,6 +92,12 @@ I am a Cloud Engineer focused on AWS-native architecture, infrastructure automat
 <p>
   <a href="https://www.linkedin.com/in/charles-opuba-94820574/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Copubah">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/copubah">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
   </a>
   <a href="mailto:charlesopuba@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
